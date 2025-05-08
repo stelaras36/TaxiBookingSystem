@@ -15,7 +15,8 @@ Simple Windows Forms application in C# for booking a taxi.
 3. Enter your email and addresses to make a booking
 
 ## 🖼 Background Image
-Make sure the file `stelaras.png` is in the same folder as the executable (`bin/Debug/...`)
+![Screenshot](stelaras.png)
+
 
 ## 📄 Example Booking
  Taxi 2: Από Οδός Σωκράτους 15, Αθήνα, 12345 προς Λεωφόρος Συγγρού 45, Αθήνα, 12345 - 8/5/2025 12:30:45 μμ
