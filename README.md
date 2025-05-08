@@ -21,6 +21,12 @@ Simple Windows Forms application in C# for booking a taxi.
 ## 📄 Example Booking
  Taxi 2: Από Οδός Σωκράτους 15, Αθήνα, 12345 προς Λεωφόρος Συγγρού 45, Αθήνα, 12345 - 8/5/2025 12:30:45 μμ
 
+ ---
+
+📦 **Download**  
+[![Download](https://img.shields.io/badge/Download-v1.0-blue?style=for-the-badge)](https://github.com/stelaras36/TaxiBookingSystem/releases/latest/download/Taxisystem-v1.0.zip)
+
+
 
 ---
 
